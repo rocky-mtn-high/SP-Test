@@ -1,0 +1,12 @@
+{
+  "name": "spotify-test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "npm run test"
+  },
+  "author": "",
+  "license": "0BSD"
+}
